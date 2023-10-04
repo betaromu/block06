@@ -1,0 +1,34 @@
+h2 {text-align: center;}
+h3 {
+    color:green;
+    text-align: center;
+}
+ul {
+    color: black;
+}
+
+ol{
+    color:black
+}
+
+.storage-types {
+    border: solid;
+    color: rgb(12, 157, 205);
+    padding: 18px;
+    margin: 5px;
+    background-color:azure;
+}
+.food-category {
+    border: solid;
+    color: rgba(96, 34, 184, 0.756);
+    padding: 18px;
+    margin: 5px;
+    background-color: rgb(185, 244, 224);
+    display:inline-block;
+}
+img {
+    display:inline-block;
+   padding: 18px;
+   max-width: 20%;
+   height: auto;
+}
